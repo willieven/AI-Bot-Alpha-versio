@@ -1,0 +1,7 @@
+opencv-python
+numpy
+ultralytics
+telepot
+requests
+redis
+pyftpdlib
